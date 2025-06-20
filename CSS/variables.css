@@ -1,0 +1,13 @@
+:root {
+--primary-color: #191927;
+--secondary-color: #19F5AA;
+--primary-font-color: #FFFFF3;
+--secondary-font-color: #C4C7FF;
+--primary-button:linear-gradient(73deg, rgba(148, 153, 230, 0.3) 40%, rgba(93,93,188,0.3) 81%  )
+--secondary-button:linear-gradient(73deg, rgba(25,245,170,0.39) 40%, rgba(93,93,188,0.3) 81%)
+--bright-purple: #5217B7;
+--purple-gray: #424265;
+--dark-purple-gray:#303046;
+--light-neon-green:#89FBD4;
+--dark-green:#269F76;
+};
